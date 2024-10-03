@@ -1,0 +1,9 @@
+.display::-webkit-scrollbar{
+  display: none;
+}
+.player:hover h3{
+  opacity: 1
+}
+.table-col{
+  grid-template-columns: .2fr 3.2fr .5fr;
+}
